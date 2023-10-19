@@ -62,7 +62,3 @@ update-database
 15. Create controllers within the specific `features` folder for your API endpoints.
 
 Now you're ready to start building your ASP.NET Core Web API. Happy coding!
-
-```
-
-```
